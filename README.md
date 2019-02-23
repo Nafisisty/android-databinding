@@ -1,11 +1,12 @@
-Android Data Binding Codelab
-=============================================
-Follow the codelab in
-
-https://github.com/googlecodelabs/android-databinding
 
 
-License
---------
+Below are the screenshots of the app.
 
-Copyright 2018 Google LLC. Licensed under the Apache License, Version 2.0.
+![](app/src/main/res/drawable/screenshot_1.png)
+
+![](app/src/main/res/drawable/screenshot_2.png)
+
+![](app/src/main/res/drawable/screenshot_3.png)
+
+![](app/src/main/res/drawable/screenshot_4.png)
+
